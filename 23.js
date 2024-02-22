@@ -1,0 +1,1 @@
+db.orders.deleteOne({_id:1002})

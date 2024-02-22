@@ -1,0 +1,1 @@
+db.customers.insertOne({_id:5,customername:'Emma Wilson',city:'Paris'})

@@ -1,0 +1,1 @@
+db.customers.updateOne({_id:3},{$set:{'city':"Tokyo"}})
